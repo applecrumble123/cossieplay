@@ -1,0 +1,342 @@
+@charset "utf-8";
+
+body {
+background-image: url(image2.jpg);
+ background-size: cover;
+
+}
+
+
+h1 { text-align: left;
+     color: antiquewhite;
+	 font-family: fantasy;
+	 font-size: 600%;
+	 line-height: 0.5em;
+}
+
+h3 {
+	text-align: center;
+	 font-family: fantasy;
+	 	 font-size: 200%;
+		 text-decoration:underline;
+		 line-height: 30%;
+}
+
+h2 { text-decoration: underline;
+line-height: 50%;}
+
+h4 {text-align: center;
+text-decoration: underline;
+font-size: 120%;
+color: black;
+}
+
+.second {font-family: arial;
+font-size: 110%;
+color: white;}
+
+
+
+
+.heading a {
+color: antiquewhite;
+font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+font-size: 170%;
+margin-left: 2.5em;
+margin-right: 2.5em;
+
+}
+
+.heading{
+text-align: center;
+line-height: 2.5em;
+border: 2px solid white;
+background-color:purple;
+margin: auto;
+width: 70em;
+opacity: 0.7;}
+
+.heading a:hover{
+			background: #9768d1;
+			transition: 0.4s;
+		}
+		
+.content {
+		font-family:arial;
+		color: #f2f3f8;
+		
+}
+
+.condition h3 { 
+text-align:center;
+font-family: arial;
+font-size: 200%;
+
+color: white;
+}
+
+
+
+.contact p {text-align: center;
+font-family:arial;
+font-size: 125%;
+
+}
+
+.contactus { text-align: center;
+font-size: 200%;
+font-family: fantasy;
+
+}
+
+
+.register {
+	text-align:center;
+	font-size: 100%;
+	margin-left: 13 em;
+	
+	
+}
+form {
+	text-align: left;
+	font-size: 200%;
+	margin-top: 2em;
+	font-family:arial;
+	color: antiquewhite;
+}
+form input {background-color: lightskyblue;
+
+}
+
+.mytext {
+	width: 30em;
+	font-size: 90%;
+}
+
+.option {
+	width: 15em;
+	font-size: 90%;
+	background-color: lightskyblue;
+}
+
+.type {
+	width: 15em;
+	font-size: 90%;
+	background-color: lightskyblue;
+}
+
+.size1 {margin-left: 3em;
+}
+
+.size2 {margin-left: 3.2em;
+}
+
+
+.display {margin-top:0.8em;
+}
+
+.input
+{font-size: 60%}
+
+.submit {
+	font-size: 70%;
+margin-bottom: 0.5em;
+}
+
+	
+.terms {font-family:arial;
+color: white;
+
+}
+
+
+.about { text-align: center;
+font-size: 200%;
+font-family: fantasy;
+color: antiquewhite;}
+
+.event{ text-align: center;
+font-size: 200%;
+font-family: fantasy;
+color: antiquewhite;}
+
+
+
+.announcement {
+text-align: center;
+margin-right: 20em;
+margin-left:7em;
+margin-top: 1em;
+font-size: 200%;
+font-family: fantasy;
+color: antiquewhite;
+
+}
+p { text-align: left;
+margin-top: 0.1em;
+
+line-height: 2em;
+font-family:  Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;}
+
+.content ul {
+text-decoration: none;
+
+font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+font-size: 130%;
+
+}
+ 
+img {
+float: right;
+margin-right: 20em;
+margin-top: 3em;
+}
+ 
+
+.signup {
+text-align: center;
+margin-top: 2em;
+}
+
+.signup a {
+	text-decoration: none;
+	font-size:300%;
+	color: black;
+}
+
+.join {
+text-align:center;
+font-family:arial;
+font-size:200%;
+margin-left:12.3em;
+margin-top: 3.5em;
+color: white;
+}
+
+button {background-color: lightskyblue;
+border-radius: 12px;
+border: 5px solid white;
+border-style: outset;
+}
+
+
+
+.response p { font-size: 200%;
+font-family: arial;
+text-align: center;
+color: white;
+margin-top: 5em;
+
+}
+
+.homepage {
+font-size: 200%;
+text-align: center;
+margin-right:2em;
+margin-top: 0.5em;
+}
+
+.homepage a{
+color: #e1e1e9;
+
+}
+
+
+
+.submit {
+text-align: center;
+margin-right: 2em;
+font-size: 80%;
+
+}
+
+.bigbox {
+background-color:transparent;
+width: 70em;
+margin: auto;
+}
+
+.bigbox2 {
+background-color:transparent;
+width: 70em;
+margin: auto;
+display:flex;
+display: -webkit-flex;
+margin-top:2em;
+}
+
+.box {
+margin: auto;
+	width: 55em;	
+	
+}
+
+
+.contact{
+	background-color:#fbb5d9;
+	width: 45em;
+	opacity: 0.8;	
+}
+
+.links {
+	background-color:#fbb5d9;
+	margin-left:2em;
+	width:25em;
+	opacity:0.8;
+}
+
+.cosplay{
+	background-color:#fbb5d9;
+	width: 40em;
+	opacity: 0.8;	
+	padding-right:1em;
+}
+
+ul li {line-height:130%;
+font-size:110%;}
+
+.cossieplay {
+	background-color:#fbb5d9;
+	margin-left:2em;
+	width:30em;
+	opacity:0.8;
+	padding-right:1em;
+}
+
+.cossieplay{ font-family:arial;
+}
+
+.cosplay p {font-family:arial;
+text-align: center;}
+
+.cosplay ul li {font-family:arial;
+}
+
+.links a {
+	color:blue;
+}
+
+
+.links p {text-align:center;
+
+}
+
+	 
+	 
+table {
+    font-family: arial;
+    border-collapse: collapse;
+    width: auto;
+	margin:auto;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+	color: white;
+	font-size:140%;
+}
+
+th {text-align: center;}
+
